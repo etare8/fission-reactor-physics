@@ -1,4 +1,4 @@
-# Homework 2
+# Homework 2 - Stability Analysis of Gen IV Nuclear Reactors coupling Neutroncs, Thermal-Hydraulics, Primary and Secondary Loops
 
 This Homework project has been carried out in the frame of the course of Fission Reactor Physics.
 
