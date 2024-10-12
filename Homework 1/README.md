@@ -1,4 +1,4 @@
-# Homework 1
+# Homework 1 - Neutron Diffusion Theory Model and Reactor Criticality Calculations for Non-Multiplying Media
 
 This Homework project has been carried out during the course of Fission Reactor Physics and Nuclear Reactor Analysis.
 
