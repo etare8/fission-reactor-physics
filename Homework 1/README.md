@@ -1,6 +1,6 @@
 # Homework 1
 
-This Homework touches some topics within the Fission Reactor Physics and Nuclear Reactor Analysis fields.
+This Homework project has been carried out during the course of Fission Reactor Physics and Nuclear Reactor Analysis.
 
 ## Topics of Interest:
 * One-speed Diffusion Equation
@@ -10,4 +10,4 @@ This Homework touches some topics within the Fission Reactor Physics and Nuclear
 * Geometrical Bucklings and Critical Flux Profiles for Common Simple Geometries
 
 ## References:
-* *"Nuclear Reactor Analysis"*, James Duderstadt & Louis Hamilton, John Wiley & Sons Inc., 1976 - (Chapter 5)
+* Duderstadt, J., & Hamilton, L. (1976). *Nuclear Reactor Analysis*. - Chapter 5
