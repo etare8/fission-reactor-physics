@@ -1,6 +1,6 @@
 # Fission Reactor Physics Course
 
-In this folder I collected some Homework Projects and Exercises carried out during the Fission Reactor Physiscs Course that I followed during my *Master Degree in Nuclear Engineering* at *Politecnico di Milano* (PoliMi).
+In this folder I collected some Homework Projects and Exercises carried out during the Fission Reactor Physics Course that I followed during my *Master Degree in Nuclear Engineering* at *Politecnico di Milano* (PoliMi).
 
 ## Topics of the Course:
 * Nuclear Power Generation
