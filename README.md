@@ -15,4 +15,4 @@ In this folder I collected some Homework Projects and Exercises carried out duri
 * Reactivity Feedbacks, Reactor Dynamics and Thermal-hydraulic coupling
 * Multigroup Diffusion Theory
 
-The course was a mix of theoretical lessons about Fission Reactor Physics and Exercise Sessions using Python to solve problems concerning Neutronics and Reactor Dynamics
+The course was a mix of theoretical lessons about Fission Reactor Physics and Exercise Sessions using Python to solve problems concerning Neutronics and Reactor Dynamics.
